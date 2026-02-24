@@ -16,7 +16,7 @@ int main() {
 
     int mang[n];
     for (i = 0; i < n; i++) {
-        scanf("%d", &mang[i]);
+        scanf("%d", &mang[i]); 
     }
 
     int max = mang[0];

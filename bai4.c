@@ -12,7 +12,7 @@
 
 int main() {
     int n, m, i, j;
-    scanf("%d %d", &n, &m);
+    scanf("%d %d", &n, &m); 
 
     int mang[n][m];
 
